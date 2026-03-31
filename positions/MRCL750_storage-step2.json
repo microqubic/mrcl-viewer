@@ -1,0 +1,48 @@
+[
+    {
+        "moduleID": "X",
+        "position": 50
+    },
+    {
+        "moduleID": "Y",
+        "position": 70
+    },
+    {
+        "moduleID": "Z",
+        "position": 120
+    },
+    {
+        "moduleID": "C",
+        "position": 120
+    },
+    {
+        "moduleID": "R",
+        "position": 0
+    },
+    {
+        "moduleID": "A",
+        "angle": 90
+    },
+    {
+        "moduleID": "B",
+        "angle": 65
+    },
+    {
+        "moduleID": "a",
+        "state": false,
+        "intensity": 100,
+        "bitmask": 1023
+    },
+    {
+        "moduleID": "b",
+        "state": false,
+        "intensity": 100
+    },
+    {
+        "moduleID": "c",
+        "state": false,
+        "intensity": 100,
+        "bitmask": 255,
+	    "colorBitmask": 15
+    }
+]
